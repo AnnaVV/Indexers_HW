@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Indexers\Article\obj\Debug\Store.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Indexers\Article\bin\Debug\Article.exe.config
+D:\Softheme_Internship\Indexers\Article\bin\Debug\Article.exe
+D:\Softheme_Internship\Indexers\Article\bin\Debug\Article.pdb
+D:\Softheme_Internship\Indexers\Article\obj\Debug\Article.exe
+D:\Softheme_Internship\Indexers\Article\obj\Debug\Article.pdb

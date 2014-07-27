@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Indexers\Matrix.csproj", "{31492B1D-6834-4A41-B423-EDC3F999B1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Article\Store.csproj", "{F571F318-7220-4FBA-972B-A49BC948ECA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31492B1D-6834-4A41-B423-EDC3F999B1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31492B1D-6834-4A41-B423-EDC3F999B1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31492B1D-6834-4A41-B423-EDC3F999B1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31492B1D-6834-4A41-B423-EDC3F999B1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F571F318-7220-4FBA-972B-A49BC948ECA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F571F318-7220-4FBA-972B-A49BC948ECA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F571F318-7220-4FBA-972B-A49BC948ECA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F571F318-7220-4FBA-972B-A49BC948ECA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

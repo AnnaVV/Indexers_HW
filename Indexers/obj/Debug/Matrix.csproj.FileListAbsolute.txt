@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Indexers\Indexers\bin\Debug\Indexers.exe.config
+D:\Softheme_Internship\Indexers\Indexers\bin\Debug\Indexers.exe
+D:\Softheme_Internship\Indexers\Indexers\bin\Debug\Indexers.pdb
+D:\Softheme_Internship\Indexers\Indexers\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Indexers\Indexers\obj\Debug\Indexers.exe
+D:\Softheme_Internship\Indexers\Indexers\obj\Debug\Indexers.pdb
